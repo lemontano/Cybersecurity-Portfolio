@@ -38,6 +38,7 @@ Several tools that I used:
 * Lucy
 * Security Onion
 * Autopsy
+* Burpesuite
 
 In addition to these technical skills, I am proficient in using Google Workspace tools (Drive, Docs, Sheets, Slides) and Markdown Language for documentation and collaboration. My extensive experience with these tools complements my technical expertise, allowing me to effectively manage projects, document findings, and communicate insights.
 

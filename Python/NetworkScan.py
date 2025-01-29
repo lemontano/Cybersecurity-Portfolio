@@ -6,7 +6,7 @@
 
 import socket
 
-print("127.0.0.1")
+print("Put your IP address in this section")
 target = input("> ")
 print("*" * 40)
 print("* Scanning: " + target + " *")
